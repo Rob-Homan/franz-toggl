@@ -1,0 +1,23 @@
+{
+  "name": "toggl",
+  "version": "1.0.0",
+  "description": "Toggl",
+  "main": "index.js",
+  "author": "Rob Homan",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.toggl.com/app",
+    "serviceName": "toggl",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
